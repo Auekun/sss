@@ -1,9 +1,9 @@
 const data = [
     {
         id : 1,
-        name : "McDonald's (แมคโดนัลด์) - พาต้า ปิ่นเกล้า",
-        type : "ร้านอาหาร",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST000004bl/hero/5c2f639864be46968813496061ab209c_1600008272596123546.jpeg"
+        name : "Subway (ซับเวย์) - ท่ามหาราช",
+        Type : "ฟาสต์ฟู้ด",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CZCFHAATNRDJCN/hero/0671a249f48145309f858b0d40a27db4_1600007885589659263.jpeg"
     },
     {
         id : 2,
@@ -13,15 +13,15 @@ const data = [
     },
     {
         id : 3,
-        name : "นายอ้วนเย็นตาโฟเสาชิงช้า - ถนนตะนาว",
-        type : "ร้านอาหารเส้น",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST0000022y/hero/c4b9c9ca49f84274861dc367529d3cc0_1592216282560213295.jpeg"
+        name : "BonChon (บอนชอน) - ท่ามหาราช",
+        Type : "ไก่ทอด",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST0000021a/hero/6322e6fbb08a4002a6ca8ba998941a8a_1598580728800966917.png"
     },
     {
         id : 4,
-        name : "ราดหน้าเฮงยอดผัก - เยาวราช",
-        type : "ร้านอาหารเส้น",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST0000002d/hero/dca01259d4e540fcbf6c7e398312737f_1589724061440001768.jpeg"
+        name : "Boon Tong Kee (บุญตงกี่) - เซ็นทรัลพลาซา แกรนด์ พระราม 9",
+        Type : "เนื้อ/สเต็ก, ข้าวหน้า",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CY5ALPMKHGBBV2/hero/e64578adb4774a31bf98d80d2bc43902_1600008255674018262.jpg"
     },  
      {
         id : 5,
@@ -37,9 +37,9 @@ const data = [
     },   
      {
         id : 7,
-        name : "Kamu Tea (คามุ ที) - ถนนจันทรคามพิทักษ์",
-        type : "ร้านเครื่องดื่ม",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CZABBF3KDA3YAT/hero/cd21c61c294c45eaae957d631f4f3bdd_1580109720841697666.jpeg"
+        name : "ป้าเล็ก Steak House & อาหารจานเดียว หอการค้า - ถนนประชาสงเคราะห์",
+        Type : "สเต็ก",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST000009as/hero/22e1c70efad34d5da364848ef756a1e8_1599403425233627992.jpg"
     },    
     {
         id : 8,
@@ -56,9 +56,9 @@ const data = [
      
     {
         id : 10,
-        name : "วอฟเฟิลฮ่องกงmrplan - ถนนเพชรเกษม",
-        type : "ขนมขบเคี้ยว",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CZDHREVVCCNBGA/hero/112058f4de0b46089a28c8a60ccf99c1_1588662677388124709.jpeg"
+        name : "FiveStar (ไก่ย่าง 5 ดาว) - สาขาหอนาฬิกาห้วยขวาง",
+        Type : " ส้มตำ, อาหารอีสาน, ไก่ทอด",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST000000wk/hero/ecd693f116bc43258f784b8dc10603a2_1599129828652339820.jpeg"
     }
     ]
 module.exports = data;
