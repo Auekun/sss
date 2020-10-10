@@ -1,9 +1,8 @@
 const data = [
-    {
-        id : 1,
-        name : "Subway (ซับเวย์) - ท่ามหาราช",
-        Type : "ฟาสต์ฟู้ด",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CZCFHAATNRDJCN/hero/0671a249f48145309f858b0d40a27db4_1600007885589659263.jpeg"
+    { id : 1,
+        name : "FiveStar (ไก่ย่าง 5 ดาว) - สาขาหอนาฬิกาห้วยขวาง",
+        Type : " ส้มตำ, อาหารอีสาน, ไก่ทอด",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST000000wk/hero/ecd693f116bc43258f784b8dc10603a2_1599129828652339820.jpeg"
     },
     {
         id : 2,
@@ -56,9 +55,9 @@ const data = [
      
     {
         id : 10,
-        name : "FiveStar (ไก่ย่าง 5 ดาว) - สาขาหอนาฬิกาห้วยขวาง",
-        Type : " ส้มตำ, อาหารอีสาน, ไก่ทอด",
-        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/THGFIST000000wk/hero/ecd693f116bc43258f784b8dc10603a2_1599129828652339820.jpeg"
+        name : "Subway (ซับเวย์) - ท่ามหาราช",
+        Type : "ฟาสต์ฟู้ด",
+        imageURL : "https://d1sag4ddilekf6.cloudfront.net/compressed/merchants/3-CZCFHAATNRDJCN/hero/0671a249f48145309f858b0d40a27db4_1600007885589659263.jpeg"
     }
     ]
 module.exports = data;
